@@ -33,9 +33,9 @@ By the end of this course, you’ll be able to:
 
 ### Option 1: Run Online (Recommended)
 Click below to run this course directly in your browser:
-👉 [Launch on Binder](https://mybinder.org/v2/gh/rasumeng/Intro-to-Python/HEAD)
+👉 [Launch on Binder](https://mybinder.org/v2/gh/LearnTechWithRobert/Intro-to-Python/HEAD)
 
 ### Option 2: Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rasumeng/learn-python-with-notebooks.git
+   git clone https://github.com/LearnTechWithRobert/learn-python-with-notebooks.git
